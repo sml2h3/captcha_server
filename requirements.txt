@@ -1,0 +1,7 @@
+torchvision
+onnxruntime
+Pillow
+numpy
+flask
+gunicorn
+gevent
